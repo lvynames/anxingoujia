@@ -21,7 +21,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
-					<string>https://www.example.cn/ipa/mytest/icon_full_size_s.png</string>
+					<string>https://raw.githubusercontent.com/lvynames/anxingoujia/main/iocn02.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -30,13 +30,13 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的小图标（180*180）在服务器的路径 -->
-					<string>https://www.example.cn/ipa/mytest/icon_display_s.png</string>
+					<string>https://raw.githubusercontent.com/lvynames/anxingoujia/main/iocn01.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mcrazy.Mytest</string>
+				<string>com.mcrazy.down</string>
 				<key>bundle-version</key>
 				<string>1.1.0</string>
 				<key>kind</key>
