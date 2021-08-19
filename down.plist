@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>https://www.example.cn/ipa/mytest/Mytest.ipa</string>
+					<string>https://github.com/lvynames/anxingoujia/raw/main/ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -38,11 +38,11 @@
 				<key>bundle-identifier</key>
 				<string>com.mcrazy.Mytest</string>
 				<key>bundle-version</key>
-				<string>1.1.4</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试客户端</string>
+				<string>安心购</string>
 			</dict>
 		</dict>
 	</array>
